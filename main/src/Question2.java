@@ -12,7 +12,7 @@ public class Question2 {
 
         System.out.print("Enter a letter: ");
         String firstLetter = input.nextLine();
-        //charAt necessary because .nextLine outputs a string which cannot be stored in a char variable
+        //charAt necessary because .nextLine outputs a string which cannot be stored in a char variable.
 
         //prompts user to enter full name
         System.out.print("Enter your full name: ");

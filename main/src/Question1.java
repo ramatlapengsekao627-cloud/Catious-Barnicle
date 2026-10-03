@@ -1,7 +1,7 @@
 /*24019362
 * Sekao Ramatlapeng
 * Lab 2 Question 1*/
-
+//first branch ws made fr
 import java.util.Scanner;
 
 public class Question1 {
